@@ -15,7 +15,7 @@ This is a resume template designed using Typora, with a clear and concise style 
 
 Download `CV-Template.md` to your computer and open it with Typora to edit the content. Once done, use Typora to export it to PDF.
 
-> Note: I wrote this template under the Typora editor GitHub theme
+> Note: I wrote this template under the Typora editor GitHub theme, which means that there may be styling issues if you access this template in other ways, but they can be fixed 😂.
 
 ## Final Words
 
